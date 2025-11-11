@@ -117,7 +117,7 @@ python main.py
 График сохранен: results/rastrigin.png
 ```
 
-![Функция Растригина](.\results\rastrigin.png)
+![Функция Растригина](./results/rastrigin.png)
 
 ### Функция Экли на [-5, 5]
 ```
@@ -134,7 +134,7 @@ python main.py
 График сохранен: results/ackley.png
 ```
 
-![Функция Экли"](.\results\ackley.png)
+![Функция Экли"](./results/ackley.png)
 
 ## Визуализация
 
