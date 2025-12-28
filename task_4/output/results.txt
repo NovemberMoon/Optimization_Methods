@@ -1,2 +1,0 @@
-V0 = 2247.0
-Best initial action = (-25.0, 0.0, 100.0)
